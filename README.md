@@ -24,7 +24,7 @@ __**A Problem?**__:
 
 English Support: https://discord.gg/dpy
 
-french Support: https://discord.gg/DrypN2wg
+French Support: https://discord.gg/DrypN2wg
 
 ![image](https://user-images.githubusercontent.com/83988054/126671526-465971b4-c787-4dec-89cb-26fa22667335.png)
 ![image](https://user-images.githubusercontent.com/83988054/126671560-a42a3bd4-dd65-49a5-b160-17c34e63c8b9.png)
