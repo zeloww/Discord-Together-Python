@@ -1,0 +1,8 @@
+python
+os
+re
+dotenv
+discord
+discordpy
+discord-together
+python-dotenv
