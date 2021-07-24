@@ -1,8 +1,4 @@
 python
-os
-re
-dotenv
-discord
-discordpy
-discord-together
+discord.py
 python-dotenv
+discord-together
