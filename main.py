@@ -19,8 +19,7 @@ with open('config.json') as f:
 bot = commands.Bot(
     command_prefix=prefix,
     description="Bot by Zelow#9999",
-    intents=intents,
-    help_command=None
+    intents=intents
 )
 
 @bot.event
