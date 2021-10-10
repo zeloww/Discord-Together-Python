@@ -1,4 +1,4 @@
-import os
+import os, json
 from dotenv import load_dotenv
 
 import discord
